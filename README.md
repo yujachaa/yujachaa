@@ -42,7 +42,7 @@
   <br>
   
   ### 📫 Contact 📫
-  <img src="https://img.shields.io/badge/yunju__l@naver.com-F3F3F3.svg?style=for-the-badge&logo=naver&logoColor=03C75A" />
+  <img src="https://img.shields.io/badge/yunju__l@naver.com-F3F3F3.svg?style=social&logo=naver&logoColor=03C75A" />
 </div>
 
 
